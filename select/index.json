@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ウィークエンダー",
+  "base_artist": "Hey! Say! JUMP",
+  "createdAt": "2025-12-08T20:10:55.840440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウィークエンダー",
+      "artist": "Hey! Say! JUMP",
+      "has_synced": true,
+      "path": "select/01_ウィークエンダー_Hey!_Say!_JUMP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィークエンダー",
+      "artist": "Hey! Say! JUMP",
+      "has_synced": false,
+      "path": "select/pl_01_ウィークエンダー_Hey!_Say!_JUMP.txt"
+    }
+  ]
+}
